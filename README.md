@@ -1,4 +1,4 @@
-# Spypa v1.0 Beta
+# Spypa v1.1 Beta
 
 **Spypa** adalah proyek eksperimen buatan Berlin yang memungkinkan kendali Termux dari jarak jauh melalui Telegram Bot. Bot ini berjalan di latar belakang dan dapat dikontrol sepenuhnya dari Telegram, cocok untuk eksperimen otomatisasi dan pemantauan sistem.
 
@@ -15,6 +15,10 @@
 - Perintah khusus untuk menghentikan dan menghapus bot
 
 ---
+## update 
+-Notifikasi IP saat online:
+Bot akan otomatis mengirim pesan seperti:
+IP 123.456.78.90 telah online di Spypa
 
 ## Cara Install
 
