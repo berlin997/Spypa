@@ -16,9 +16,11 @@
 
 ---
 ## update 
--Notifikasi IP saat online:
+- Notifikasi IP saat online:
 Bot akan otomatis mengirim pesan seperti:
 IP 123.456.78.90 telah online di Spypa
+- Perintah /ambil [folder]:
+Mengambil semua file dari folder tertentu dan mengirimnya ke Telegram satu per satu.
 
 ## Cara Install
 
