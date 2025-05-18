@@ -86,7 +86,7 @@ Contoh nama penyamaran lainnya:
 
 ## Versi
 
-**Spypa v1.0 Beta**  
+**Spypa v1.1 Beta**  
 Eksperimen oleh **Berlin**  
 Dirancang untuk penggunaan pribadi dan pembelajaran
 
